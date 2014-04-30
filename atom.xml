@@ -4,7 +4,7 @@
   <title><![CDATA[小豆的小店]]></title>
   <link href="http://renhongyuq.github.io/test05/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test05/"/>
-  <updated>2014-04-30T09:38:11+02:00</updated>
+  <updated>2014-04-30T09:42:02+02:00</updated>
   <id>http://renhongyuq.github.io/test05/</id>
   <author>
     <name><![CDATA[小豆]]></name>
@@ -27,11 +27,15 @@
     <link href="http://renhongyuq.github.io/test05/blog/2014/04/28/mepiform/"/>
     <updated>2014-04-28T15:51:46+02:00</updated>
     <id>http://renhongyuq.github.io/test05/blog/2014/04/28/mepiform</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://renhongyuq.github.io/test05/images/2014/mepiform/mepiform.png" width="350" height="350"></p>
+    <content type="html"><![CDATA[<!-- more -->
 
-<p><span>
+
+<p><img class="left" src="http://renhongyuq.github.io/test05/images/2014/mepiform/mepiform.png" width="200" height="200"></p>
+
+<p>
 meipihu
-</span></p>
+</p>
+
 ]]></content>
   </entry>
   
