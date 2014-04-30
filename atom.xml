@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://renhongyuq.github.io/test05/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test05/"/>
-  <updated>2014-04-30T09:29:28+02:00</updated>
+  <updated>2014-04-30T09:31:23+02:00</updated>
   <id>http://renhongyuq.github.io/test05/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -63,6 +63,9 @@ meipihu
 <h2>
 鱼油
 </h2>
+
+
+<!-- more -->
 
 
 <p><img class="left" src="http://renhongyuq.github.io/test05/images/2014/04/pharbio1.png" width="350" height="350"></p>
